@@ -1,3 +1,8 @@
+### Insta Site
+This is an app that uses tldraw and the gpt-4o api to generate html based on a wireframe you draw.
+
+![A demo of the app](./demo_short.gif)
+
 #### ⚡️ Requirements
 
 1. [Node.js](https://nodejs.org) installed on your computer (18)
